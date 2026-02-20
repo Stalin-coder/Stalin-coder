@@ -12,7 +12,3 @@ Full Stack Developer focused on building AI-powered web applications.<br>Strong 
 ![](https://nirzak-streak-stats.vercel.app/?user=Stalin-coder&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stalin-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Stalin-coder&icon=7&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
